@@ -1,4 +1,4 @@
-# ⁀➷ SomeMidtownScientist
+# ⁀➷ SomeMidtownScientist ,,
 ,, hi hello its me... my old git name was LaScreamingSpotlight hi yeah.. Lately I've been more busy with school (wow look nerd alert) so I haven't drawn anything in a while, but I'm trying.. Strictly don't steal/repost/trace/feed my art to ai EVER. Thanky ,,
 
 ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=Lovelies&color=A3966A)
@@ -16,11 +16,6 @@
 ![Image](https://github.com/LaScreamingSpotlight/LaScreamingSpotlight/blob/main/Untitled44_20260221174524.png?raw=true)
 Probably my last drawing of him after I finish.
 
-## ![My Art](https://github.com/LaScreamingSpotlight/My-art-wip-yippiee/raw/main/Untitled33_20250720000914.png)
-My crusty old style.
-
-<img width="1536" height="2048" alt="17582973326876143273458255268465" src="https://github.com/user-attachments/assets/297e2e83-42cc-4dfe-abb1-73df43940880" />
-Lovely pavlova 
 
 
 <!--
