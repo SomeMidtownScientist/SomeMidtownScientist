@@ -9,10 +9,10 @@
 ✩✰✮.......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=My_Dear_Lovelies&color=A3966A) •••••••.......✮✰✩
 
 <p align="center">
-  <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
+ ✩✰✮ <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
   <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070752.png?raw=true" width="150" />
   <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524082126.png?raw=true" width="150" alt="Description">
-  <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524080742.png?raw=true" width="150" />
+  <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524080742.png?raw=true" width="150" />✮✰✩
 </p>
 
 <p align="center">
@@ -21,10 +21,7 @@
   </a>
 </p>
 
-,, I wish i have the motivation to draw like i used to,,
-
-,, Maybe I'll draw Peter Parker (can you tell that i like Peter Parker?),,
-
+,, My art ,,
 ![Image](https://github.com/LaScreamingSpotlight/LaScreamingSpotlight/blob/main/Untitled44_20260221174524.png?raw=true)
 Probably my last drawing of him after I finish.
 
