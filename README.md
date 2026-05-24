@@ -50,6 +50,30 @@
 
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
 
+<p align="center"
+
+------------------------------✦
+
+<p align="center"
+
+"I'm addicted to madness, but what can I say?"
+
+<p align="center"
+
+✦------------------------------
+
+<p align="center"
+
+✩✰✮.......•••••••✦•••••••.......✮✰✩
+
+<p align="center"
+
+![](https://files.catbox.moe/kcoywp.gif)
+
+<p align="center"
+
+✩✰✮.......•••••••✦•••••••.......✮✰✩
+
 
 
 <!--
