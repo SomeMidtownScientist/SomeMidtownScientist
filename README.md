@@ -10,7 +10,7 @@
 
 <p align="Center"
   
-✩✰✮.......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=My_Dear_Lovelies&color=A3966A) •••••••.......✮✰✩
+✩✰✮.......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=my_dear_lovelies&color=A3966A) •••••••.......✮✰✩
 
 <p align="center">
  ✩✰✮ <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
@@ -44,7 +44,7 @@
 
 <p align="center"
   
-| <a href="https://somemidtownscientist.straw.page" style="color: #A3966A">Strawpage</a> |  | [Instagram](https://www.instagram.com/madinalovesart) |  | [Roblox](https://www.roblox.com/share?code=0c933fde5c676547a1301e8b134cc32d&type=Profile&source=ProfileShare&stamp=1779595573880) l
+| [![strawpage](https://img.shields.io/badge/strawpage-A3966A?style=for-the-badge&labelColor=121212)](https://somemidtownscientist.straw.page) |  | [![instagram](https://img.shields.io/badge/instagram-A3966A?style=for-the-badge&labelColor=121212)](https://www.instagram.com/madinalovesart) |  | [![roblox](https://img.shields.io/badge/roblox-A3966A?style=for-the-badge&labelColor=121212)](https://www.roblox.com/share?code=0c933fde5c676547a1301e8b134cc32d&type=Profile&source=ProfileShare&stamp=1779595573880) |
 
 <p align="center"
 
