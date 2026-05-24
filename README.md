@@ -1,7 +1,12 @@
-# ⁀➷ SomeMidtownScientist ,,
-,, hi hello... Lately I've been more busy with school (wow look nerd alert) so I haven't drawn anything in a while, but I'm trying.. Strictly don't steal/repost/trace/feed my art to ai EVER. Thanky ,,
+# ⁀➷ SomeMidtownScientist ,, 🕸️
 
-.......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=My_Dear_Lovelies&color=A3966A) •••••••....... ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<p align="center"
+  
+![](https://files.catbox.moe/srh8va.gif)
+
+<p align="Center"
+  
+✩✰✮.......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=My_Dear_Lovelies&color=A3966A) •••••••.......✮✰✩
 
 <p align="center">
   <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
