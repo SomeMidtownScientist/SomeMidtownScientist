@@ -15,10 +15,11 @@
   <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524080742.png?raw=true" width="150" />✮✰✩
 </p>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=000000&bar_color_cover=false">
-  </a>
+<p align="center"
+  
+  ✩✰✮ <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>✮✰✩
 </p>
 
 ,, My art ,,
