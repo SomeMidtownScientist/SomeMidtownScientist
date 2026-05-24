@@ -26,7 +26,17 @@
   </a>✮✰✩
 </p>
 
-| [Strawpage](https://somemidtownscientist.straw.page) |  | [Insta](https://www.instagram.com/madinalovesart) |
+<p align="center"
+  
+✩✰✮.......•••••••✦•••••••.......✮✰✩
+
+<p align="center"
+  
+| [Strawpage](https://somemidtownscientist.straw.page) |  | [Instagram](https://www.instagram.com/madinalovesart) |  | [Roblox](https://www.roblox.com/share?code=0c933fde5c676547a1301e8b134cc32d&type=Profile&source=ProfileShare&stamp=1779595573880) l
+
+<p align="center"
+
+✩✰✮.......•••••••✦•••••••.......✮✰✩
 
 
 
