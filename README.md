@@ -27,6 +27,18 @@
 </p>
 
 <p align="center"
+
+------------------------------✦
+
+<p align="center"
+
+"with great power comes great responsibility.."
+
+<p align="center"
+
+✦------------------------------
+
+<p align="center"
   
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
 
