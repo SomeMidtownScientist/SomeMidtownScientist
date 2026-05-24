@@ -2,6 +2,10 @@
 
 <p align="center"
   
+✩✰✮.......•••••••✦•••••••.......✮✰✩
+
+<p align="center"
+  
 ![](https://files.catbox.moe/srh8va.gif)
 
 <p align="Center"
@@ -22,9 +26,7 @@
   </a>✮✰✩
 </p>
 
-,, My art ,,
-![Image](https://github.com/LaScreamingSpotlight/LaScreamingSpotlight/blob/main/Untitled44_20260221174524.png?raw=true)
-Probably my last drawing of him after I finish.
+| [Strawpage](https://somemidtownscientist.straw.page) |  | [Insta](https://www.instagram.com/madinalovesart) |
 
 
 
