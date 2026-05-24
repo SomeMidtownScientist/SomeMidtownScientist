@@ -3,7 +3,12 @@
 
 .......••••••• ![](https://komarev.com/ghpvc/?username=LaScreamingSpotlight&style=flat-circle&abbreviated=true&label=My_Dear_Lovelies&color=A3966A) •••••••....... ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
+<p align="center">
+  <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
+  <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070752.png?raw=true" width="150" />
+  <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524082126.png?raw=true" width="150" alt="Description">
+  <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524080742.png?raw=true" width="150" />
+</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&redirect=true">
