@@ -21,9 +21,11 @@
 
 <p align="center"
   
-  ✩✰✮ <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
-  </a>✮✰✩
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&redirect=true" style="text-decoration: none; border: none;">
+  <span style="font-size: 1.5em;">✩✰✮</span>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ppvazwuplvpc7yolpghm7m3rkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" style="display: block; margin: 0; padding: 0;">
+  <span style="font-size: 1.5em;">✮✰✩</span>
+</a>
 </p>
 
 <p align="center"
