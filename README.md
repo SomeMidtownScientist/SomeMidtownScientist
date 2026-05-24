@@ -16,7 +16,7 @@
  ✩✰✮ <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070717.png?raw=true" width="150" alt="Untitled45_20260524070717"> 
   <img ="<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524070752.png?raw=true" width="150" />
   <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524082126.png?raw=true" width="150" alt="Description">
-  <img =<img src="https://github.com/SomeMidtownScientist/SomeMidtownScientist/blob/main/Untitled45_20260524080742.png?raw=true" width="150" />✮✰✩
+  <img =<img src="Untitled45_20260524085833.png" width="150" /> ✮✰✩
 </p>
 
 <p align="center"
@@ -73,7 +73,6 @@
 <p align="center"
 
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
-
 
 
 <!--
