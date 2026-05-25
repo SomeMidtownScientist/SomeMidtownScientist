@@ -46,7 +46,7 @@ u# ⁀➷ SomeMidtownScientist ,, 🕸️
 
 <p align="center"
   
-| [![strawpage](https://img.shields.io/badge/strawpage-A3966A?style=for-the-badge&labelColor=121212)](https://somemidtownscientist.straw.page) |  | [![instagram](https://img.shields.io/badge/instagram-A3966A?style=for-the-badge&labelColor=121212)](https://www.instagram.com/madinalovesart) |  | [![roblox](https://img.shields.io/badge/roblox-A3966A?style=for-the-badge&labelColor=121212)](https://www.roblox.com/share?code=0c933fde5c676547a1301e8b134cc32d&type=Profile&source=ProfileShare&stamp=1779595573880) | | [![guns lol](https://img.shields.io/badge/guns_lol-A3966A?style=for-the-badge&labelColor=121212)](https://guns.lol/midtownscientist) |
+| [![straw](https://img.shields.io/badge/straw-A3966A?style=for-the-badge&labelColor=121212)](https://somemidtownscientist.straw.page) |  | [![insta](https://img.shields.io/badge/insta-A3966A?style=for-the-badge&labelColor=121212)](https://www.instagram.com/madinalovesart) |  | [![rblx](https://img.shields.io/badge/rblx-A3966A?style=for-the-badge&labelColor=121212)](https://www.roblox.com/share?code=0c933fde5c676547a1301e8b134cc32d&type=Profile&source=ProfileShare&stamp=1779595573880) | | [![guns](https://img.shields.io/badge/guns-A3966A?style=for-the-badge&labelColor=121212)](https://guns.lol/midtownscientist) | | [![ata](https://img.shields.io/badge/ata-A3966A?style=for-the-badge&labelColor=121212)](somemidtownscientist.atabook.org)
 
 <p align="center"
 
