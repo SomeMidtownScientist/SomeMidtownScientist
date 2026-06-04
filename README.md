@@ -1,8 +1,4 @@
 <p align="center"
-
-⁀➷ SomeMidtownScientist ,, 🕸️
-
-<p align="center"
   
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
 
