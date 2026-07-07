@@ -74,7 +74,7 @@
 
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
 
-![Art WIP](https://github.com/SomeMidtownScientist/My-art-wip-yippiee/blob/main/IMG-20260707-WA0000.jpg?raw=true)
+
 
 
 <!--
