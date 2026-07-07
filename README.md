@@ -74,6 +74,8 @@
 
 ✩✰✮.......•••••••✦•••••••.......✮✰✩
 
+![Art WIP](https://github.com/SomeMidtownScientist/My-art-wip-yippiee/blob/main/IMG-20260707-WA0000.jpg?raw=true)
+
 
 <!--
 **LaScreamingSpotlight/LaScreamingSpotlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
